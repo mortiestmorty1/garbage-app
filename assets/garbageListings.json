@@ -1,0 +1,25 @@
+[
+    {
+      "id": "1",
+      "customer_id": "1",
+      "driver_id": null,
+      "type": "Plastic",
+      "recyclable": true,
+      "weight": "5 kg",
+      "price": "$10",
+      "status": "open",
+      "address": "123 Eco Street, Green City"
+    },
+    {
+      "id": "2",
+      "customer_id": "1",
+      "driver_id": null,
+      "type": "Organic",
+      "recyclable": false,
+      "weight": "3 kg",
+      "price": "$5",
+      "status": "open",
+      "address": "456 Nature Lane, Green City"
+    }
+  ]
+  

@@ -1,0 +1,23 @@
+[
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "adminpass",
+      "role": "admin",
+      "contact": "123-456-7890"
+    },
+    {
+      "id": "2",
+      "username": "driver1",
+      "password": "driverpass",
+      "role": "driver",
+      "contact": "234-567-8901"
+    },
+    {
+      "id": "3",
+      "username": "customer1",
+      "password": "customerpass",
+      "role": "customer",
+      "contact": "345-678-9012"
+    }
+  ]
